@@ -19,5 +19,8 @@
     ],
     "related": [
         "scipy-permutations"
+    ],
+    "python_packages":[
+        "scipy"
     ]
 }
