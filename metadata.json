@@ -1,22 +1,23 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "SciPy: Calculating the Number of Combination using comb()",
+    "slug": "scipy-combination-comb",
+    "description": "How to use scipy.special.comb() to calculate the number of unordered ways of taking k things from a pool of N things.",
     "authors": [
-        "",
-        ""
+        "chris-cooling",
+        "giorgia-del-missier"
     ],
     "tags": [
-        "",
-        ""
+        "python",
+        "scipy"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "scipy-special-functions",
+        "maths-combinations-binomial-coefficient",
+        "python-importing-from-submodules-in-packages",
+        "programming-calling-functions"
     ],
     "related": [
-        "",
-        ""
+        "scipy-permutations"
     ]
 }
